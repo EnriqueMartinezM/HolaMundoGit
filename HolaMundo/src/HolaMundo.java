@@ -9,6 +9,7 @@ int Dato=3;
 
 System.out.println("2 cambio -Consola");
 
+String manin="Matias";
 	}
 
 }
