@@ -9,6 +9,8 @@ int Dato=3;
 
 System.out.println("2 cambio -Consola");
 
+System.out.println("2 cambio-Eclipse");
+
 	}
 
 }
