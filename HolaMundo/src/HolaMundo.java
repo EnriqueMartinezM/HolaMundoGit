@@ -7,6 +7,8 @@ double Numero=5;
 
 int Dato=2;
 
+System.out.println("2 cambio-Eclipse");
+
 	}
 
 }
